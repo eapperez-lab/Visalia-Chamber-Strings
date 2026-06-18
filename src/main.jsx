@@ -3,7 +3,7 @@ import { createRoot } from 'react-dom/client';
 import { Calendar, MapPin, Music, Heart, GraduationCap, Users, ExternalLink, Menu, X, Mail, Clock, Ticket } from 'lucide-react';
 import './styles.css';
 
-const LUDUS_TICKET_URL = 'https://your-ludus-ticket-link.com';
+const LUDUS_TICKET_URL = 'https://visaliachamberstrings.ludus.com/select.php';
 const CONTACT_EMAIL = 'hello@visaliachamberstrings.org';
 
 const event = {
