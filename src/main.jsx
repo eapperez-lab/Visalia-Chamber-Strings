@@ -84,12 +84,11 @@ function App() {
       <section id="concerts" className="section featured-concert">
         <div>
           <p className="eyebrow">Upcoming Performance</p>
-          <h2>Mendelssohn & Friends</h2>
-          <p>Join Visalia Chamber Strings for an evening of chamber music featuring works by Jay Ungar, Rune Tonsgaard Sørensen, Harold Arlen, and Felix Mendelssohn.</p>
+          <h2>Rooted in Tradition</h2>
+          <p>Join Visalia Chamber Strings for an evening of chamber music featuring works by Mozart, Price and more.</p>
           <div className="meta-grid">
-            <span><Calendar size={18} /> January 9, 2026</span>
+            <span><Calendar size={18} /> July 10, 2026</span>
             <span><MapPin size={18} /> Visalia, CA</span>
-            <span><Music size={18} /> Special Guest: Chen Zhao</span>
           </div>
         </div>
         <a className="button primary" href={LUDUS_TICKET_URL} target="_blank" rel="noreferrer">Buy Tickets</a>
