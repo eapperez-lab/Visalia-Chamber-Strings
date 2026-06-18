@@ -88,7 +88,7 @@ function App() {
           <p>Join Visalia Chamber Strings for an evening of chamber music featuring works by Mozart, Price and more.</p>
           <div className="meta-grid">
             <span><Calendar size={18} /> July 10, 2026</span>
-            <span><MapPin size={18} /> Visalia, CA</span>
+            <span><MapPin size={18} /> First Presbyterian Church 215 N Locust St Visalia, CA</span>
           </div>
         </div>
         <a className="button primary" href={LUDUS_TICKET_URL} target="_blank" rel="noreferrer">Buy Tickets</a>
